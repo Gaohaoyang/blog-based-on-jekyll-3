@@ -28,6 +28,7 @@
                 color: #6a6b6b;
             }
             li {
+                line-height: 1.8;
                 color: #888888;
                 time {
                     display: inline-block;
@@ -125,6 +126,8 @@
         .content-ul {
             overflow-y: auto;
             padding-right: 10px;
+            line-height: 1.8;
+            padding-left: 35px;
             ul{
                 padding-left: 20px;
             }
@@ -145,7 +148,7 @@
             padding: 10px 14px;
             font-size: 14px;
             >h1 {
-                font-size: 26px;
+                font-size: 25px;
                 margin-bottom: -10px;
             }
             ul {
